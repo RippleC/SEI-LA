@@ -1,6 +1,5 @@
 #include<stdio.h>
 #include<math.h>
-#i
 #define q [v+a]
 #define c b[1]
 #define O 1 q
