@@ -1,3 +1,10 @@
+/*
+*provavelmente* a função disso é, através de macros, reduzir um valor irracional a racional (arrendondando).
+
+por ex: -1,366666666... = -1,37
+
+*/
+
 #include<stdio.h>
 #include<math.h>
 #define q [v+a]
